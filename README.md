@@ -1,2 +1,3 @@
 # hello-world
-A sort basic introduction for Git 
+A short, basic introduction for Git 
+Spacemunki reporting for duty!
